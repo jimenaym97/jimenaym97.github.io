@@ -1,0 +1,35 @@
+.bg-image {
+	background: url("../img/test.gif") no-repeat center center fixed; 
+	background-size: cover;
+}
+
+.name {
+	color: white;
+	font-size: 100px;
+	position: center;
+	font-style: arial;
+}
+
+.name2 {
+	color: white;
+	font-size: 15px
+}
+
+.name3 {
+	color: whitesmoke;
+	font-size: 50px;
+}
+
+.bg-color {
+	background-color: black; 
+}
+
+img {
+	height: 550px;
+	width: 100%;
+}
+
+.img-m {
+	height: 500px;
+	width:100%;
+}
